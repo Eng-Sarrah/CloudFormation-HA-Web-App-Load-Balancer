@@ -11,6 +11,9 @@ This AWS CloudFormation template sets up a highly available web application usin
 
 The goal of this setup is to provide high availability, load balancing, and redundancy across multiple Availability Zones for a scalable web application.
 
+![AWS (2025) horizontal framework](https://github.com/user-attachments/assets/29a52397-6f24-4671-8736-91d03a53cf19)
+
+
 ### 🛠️ Resources Created
 
 - **VPC**: A Virtual Private Cloud to isolate and organize your resources.
